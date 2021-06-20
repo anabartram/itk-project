@@ -1,0 +1,9 @@
+name: itk
+dependencies:
+    - jupyterlab=2.3.1
+    - imageio=2.9.0
+    - pip=21.1.1
+    - nodejs=14.8.0
+    - pip:
+        - itk-elastix==0.12.0
+        - itkwidgets==0.32.1

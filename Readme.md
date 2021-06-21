@@ -6,7 +6,7 @@ The example requires that anaconda be installed.
 
 ## Installation
 
-Run the install.bat script.
+Run the `install.bat` script on Windows and `install.sh` on Linux/Mac OS.
 
 ```
 install

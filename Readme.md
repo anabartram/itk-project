@@ -9,18 +9,23 @@ The example requires that anaconda be installed.
 Run the `install.bat` script on Windows and `install.sh` on Linux/Mac OS.
 
 ```
-install
+C:\Path\to\itk-project> install
+```
+
+On Linux/Mac OS:
+```
+/path/to/itk-project:$ ./install.sh
 ```
 
 ## Run
 
 Enter the newly installed conda environment:
 ```
-conda activate itk
+C:\Path\to\itk-project> conda activate itk
 ```
 and run jupyter lab
 ```
-jupyter lab
+(itk) C:\Path\to\itk-project> jupyter lab
 ```
 
 ## License
